@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fardeena14 (Md Fardeen Alam)
+- 👋 Hi, I’m @fardeen02 (Md Fardeen Alam)
 - 👀 I’m interested in HTML, CSS & JavaScript (Focused in Web Development)
 - 🌱 I’m currently learning JavaScript Frameworks and many more things
 - 💞️ I’m looking to collaborate on HTML, CSS & JavaScript projects (Web development)
